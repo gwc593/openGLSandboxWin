@@ -20,6 +20,7 @@ public:
 class triangle {
     
 public:
+    //Todo make seperate class....
     vector2 position;
     float height;
     float width;
